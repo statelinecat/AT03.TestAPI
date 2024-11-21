@@ -20,3 +20,6 @@ def test_get_random_cat_image_error(mocker):
 
 
 # [{"id":"MTY4OTk4OQ","url":"https://cdn2.thecatapi.com/images/MTY4OTk4OQ.jpg","width":640,"height":426}]
+
+
+
